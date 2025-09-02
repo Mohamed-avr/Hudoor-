@@ -11,6 +11,12 @@ It consists of three integrated applications:
 
 ---
 
+The process :
+- User research 
+- user flow
+- user persona
+- Information architecture 
+
 ## ✨ Features
 
 - **Real-time Attendance Tracking**
