@@ -1,4 +1,6 @@
- 📚 Hudoor – Free Attendance System for Universities
+ 📚 Hudoor – Free Atte
+ ![Logo-3](https://github.com/user-attachments/assets/61fb4437-1a7d-4cbb-b1f3-da03ae557a42)
+ndance System for Universities
 
 Hudoor (حضور) is a **free, modern, and paperless attendance system** built for universities that still rely on outdated paper-based methods.  
 It consists of three integrated applications:
